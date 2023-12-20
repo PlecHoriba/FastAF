@@ -1,0 +1,5 @@
+math
+ipywidgets
+numpy
+matplotlib
+seaborn
