@@ -1,6 +1,16 @@
 # FastAF
 Simulation Et misc pour le projet FastAF
 
+Partially based on : 
+Zhen Bai, Jingsong Wei,
+Focusing error detection based on astigmatic method with a double cylindrical lens group,
+Optics & Laser Technology,
+Volume 106,
+2018,
+Pages 145-151,
+ISSN 0030-3992,
+https://doi.org/10.1016/j.optlastec.2018.04.005.
+
 # Jupyter interactif FastAF calcul du FES
 ---
 #### Author : Pierre Leclerc
