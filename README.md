@@ -17,7 +17,8 @@ https://doi.org/10.1016/j.optlastec.2018.04.005.
 
 Un jupyter interactif pour simuler FastAF avec lentille liquide Optotune EL-16-40-TC-VIS-20D
 
-description des variables :
+**description des variables :**
+
 **f0** = focal de l'objectif
 **r0** = apperture obj
 
