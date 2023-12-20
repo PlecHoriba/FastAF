@@ -1,4 +1,5 @@
 ipywidgets
+ipympl
 numpy
 matplotlib
 seaborn
