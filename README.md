@@ -12,7 +12,6 @@ ISSN 0030-3992,
 https://doi.org/10.1016/j.optlastec.2018.04.005.
 
 # Jupyter interactif FastAF calcul du FES
----
 #### Author : Pierre Leclerc
 #### Date : 20/12/2023
 
