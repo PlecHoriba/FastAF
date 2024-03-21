@@ -1,6 +1,9 @@
 # FastAF
-Simulation Et misc pour le projet FastAF
+Simulation/Librairies Et misc pour le projet FastAF
 
+## Jupyter interactif FastAF calcul du FES
+#### Author : Pierre Leclerc
+#### Date : 20/12/2023
 Partially based on : 
 Zhen Bai, Jingsong Wei,
 Focusing error detection based on astigmatic method with a double cylindrical lens group,
@@ -10,11 +13,6 @@ Volume 106,
 Pages 145-151,
 ISSN 0030-3992,
 https://doi.org/10.1016/j.optlastec.2018.04.005.
-
-# Jupyter interactif FastAF calcul du FES
-#### Author : Pierre Leclerc
-#### Date : 20/12/2023
-
 Un jupyter interactif pour simuler FastAF avec lentille liquide Optotune EL-16-40-TC-VIS-20D
 
 **description des variables :**
@@ -31,3 +29,7 @@ Un jupyter interactif pour simuler FastAF avec lentille liquide Optotune EL-16-4
 
 **fll** = Focal liquid Lens
 **lde** = distance LL to CLX
+
+## Fast AF Helper
+Librairie python pour le projet FASTAF
+Exemple d'utilisation dans exemple
