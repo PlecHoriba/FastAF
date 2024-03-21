@@ -29,7 +29,3 @@ Un jupyter interactif pour simuler FastAF avec lentille liquide Optotune EL-16-4
 
 **fll** = Focal liquid Lens
 **lde** = distance LL to CLX
-
-## Fast AF Helper
-Librairie python pour le projet FASTAF
-Exemple d'utilisation dans exemple
